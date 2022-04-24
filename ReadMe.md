@@ -1,5 +1,5 @@
 Hello there!
-My name is Vlad and I'm Front-End Dev from Uzhhrod, UA
+My name is Vlad and I'm Front-End Dev from Uzhhorod, UA
 
 I'll be updating this page in future...
 
