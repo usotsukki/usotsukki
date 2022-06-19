@@ -1,5 +1,5 @@
 Hello there!
-My name is Vlad and I'm Front-End Dev from Uzhhorod, UA
+My name is Vlad React Native Developer at Petterson Apps, Uzhhorod, UA
 
 I'll be updating this page in future...
 
