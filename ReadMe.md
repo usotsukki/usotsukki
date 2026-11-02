@@ -10,5 +10,5 @@ Full-stack engineer building **web and mobile products**.
 | :---: | :---: |
 | **My own app** | **Recent work** |
 | Invoices, estimates, payments, and bilingual PDFs.<br />Works offline, for freelancers and small businesses. | Scheduling, pet and client records, teams, and invoicing.<br />Built for pet care professionals. |
-| <img src="assets/maneki.gif" width="250" alt="Maneki: opening an invoice, switching its PDF template and colour, and checking link views" /> | <img src="assets/tailtime.gif" width="250" alt="TailTime: paging a busy calendar, opening a day's bookings, and a Smart Scheduling suggestion" /> |
+| <img src="assets/maneki.gif" width="250" alt="Maneki: creating an invoice, signing the PDF, sending a link, and seeing the client view it" /> | <img src="assets/tailtime.gif" width="250" alt="TailTime: dragging a booking to another day, then a new booking checked against the pet's usual schedule with a suggested time" /> |
 | [App Store](https://apps.apple.com/app/id6820072997) | [Website](https://tailtime.app/) · [iOS](https://apps.apple.com/app/id6760473168) · [Android](https://play.google.com/store/apps/details?id=com.tailtime) |
